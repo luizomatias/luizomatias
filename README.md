@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://luizomatias.github.io/luiz-website/">
-    <img src="https://luizomatias.github.io/luiz-website/og-cinematic.png" alt="Luiz Otávio — AI/ML Engineer. Two worlds, one engineer." width="100%" />
-  </a>
-</p>
-
 <h1 align="center">Luiz Otávio</h1>
 
 <p align="center">
