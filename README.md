@@ -1,0 +1,47 @@
+<p align="center">
+  <a href="https://luizomatias.github.io/luiz-website/">
+    <img src="https://luizomatias.github.io/luiz-website/og-cinematic.png" alt="Luiz Otávio — AI/ML Engineer. Two worlds, one engineer." width="100%" />
+  </a>
+</p>
+
+<h1 align="center">Luiz Otávio</h1>
+
+<p align="center">
+  <strong>AI/ML Engineer</strong> — I build machine-learning systems for the part <em>after the demo</em>,<br />
+  when the data changes, the latency matters, and someone has to trust the answer.
+</p>
+
+<p align="center">
+  <a href="https://luizomatias.github.io/luiz-website/">
+    <img src="https://img.shields.io/badge/Portfolio-181D1F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+### What I work on
+
+- **Learning systems** — models that turn messy, real-world data into signal.
+- **Production ML** — evaluation, monitoring, and the plumbing that keeps a model honest once it's live.
+- **Data platforms** — pipelines over billions of records, built to feed the next model.
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-FF6F00?style=flat-square)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-1FA8C9?style=flat-square&logo=apacheiceberg&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+<p align="center">
+  <em>Two worlds, one engineer — rigorous engineering underneath, expressive experiences on the surface.</em>
+</p>
