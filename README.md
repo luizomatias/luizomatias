@@ -1,4 +1,4 @@
-<h1 align="center">Luiz Otávio</h1>
+<h1 align="center">Luiz Luz</h1>
 
 <p align="center">
   <strong>AI/ML Engineer</strong> — I build machine-learning systems for the part <em>after the demo</em>,<br />
