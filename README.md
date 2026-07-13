@@ -11,14 +11,6 @@
   </a>
 </p>
 
----
-
-### What I work on
-
-- **Learning systems** — models that turn messy, real-world data into signal.
-- **Production ML** — evaluation, monitoring, and the plumbing that keeps a model honest once it's live.
-- **Data platforms** — pipelines over billions of records, built to feed the next model.
-
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
