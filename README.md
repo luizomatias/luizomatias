@@ -39,7 +39,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
-
-<p align="center">
-  <em>Two worlds, one engineer — rigorous engineering underneath, expressive experiences on the surface.</em>
-</p>
