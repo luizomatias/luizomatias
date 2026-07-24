@@ -1,16 +1,3 @@
-<h1 align="center">Luiz Luz</h1>
-
-<p align="center">
-  <strong>AI/ML Engineer</strong> — I build machine-learning systems for the part <em>after the demo</em>,<br />
-  when the data changes, the latency matters, and someone has to trust the answer.
-</p>
-
-<p align="center">
-  <a href="https://luizomatias.github.io/luiz-website/">
-    <img src="https://img.shields.io/badge/Portfolio-181D1F?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
